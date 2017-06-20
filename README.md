@@ -6,4 +6,4 @@
 
 3. Run the script.
 
-4. A file called average_data4.txt will be created in your default R directory at the end.
+4. A file called average_data3.txt will be created in your default R directory at the end.
